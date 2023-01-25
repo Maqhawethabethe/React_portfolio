@@ -23,14 +23,14 @@ const About = () => {
             <article className='about_card'>
               <FiAward className='about_icon'/>
               <h5>Experience</h5>
-              <small>1+ Year</small>
+              <small>2+ Year</small>
 
             </article>
 
             <article className='about_card'>
               <ImUsers className='about_icon'/>
               <h5>Clients</h5>
-              <small>1+ National</small>
+              <small>5+ Local</small>
 
             </article>
 
@@ -42,7 +42,7 @@ const About = () => {
             </article>
           </div>
             <p>
-            I am a final year student from the Cape Peninsula University of Technology, studying computer engineering.
+            I Graduated from the Cape Peninsula University of Technology for a diploma in computer engineering.
             I have always been motivated by the growth of technology in South Africa to become a software developer.
             And throughout my academic journery, I have been exposed to the most up-to-date tools to develop modern web applications.
 

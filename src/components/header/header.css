@@ -40,13 +40,13 @@ header{
 .me {
     background:linear-gradient(var(--color-bg-variant), transparent);
     width: 22rem;
-    height: 30rem;
+    height: 25rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 3rem;
+    margin-top: 4rem;
     border-radius: 12rem 12rem 12rem 12rem;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: 1rem 1rem 1rem 1rem;
 
 }
 .scroll_down {
