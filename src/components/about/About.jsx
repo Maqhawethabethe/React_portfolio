@@ -23,7 +23,7 @@ const About = () => {
             <article className='about_card'>
               <FiAward className='about_icon'/>
               <h5>Experience</h5>
-              <small>2+ Year</small>
+              <small>Entry level</small>
 
             </article>
 
@@ -44,7 +44,8 @@ const About = () => {
             <p>
             I Graduated from the Cape Peninsula University of Technology for a diploma in computer engineering.
             I have always been motivated by the growth of technology in South Africa to become a software developer.
-            And throughout my academic journery, I have been exposed to the most up-to-date tools to develop modern web applications.
+            And throughout my academic journery, I have been exposed to the most up-to-date tools to develop modern web applications 
+            keeping real users in mind.
 
             </p>
             <a href="#contact" className='btn btn-primary'>Contact</a>

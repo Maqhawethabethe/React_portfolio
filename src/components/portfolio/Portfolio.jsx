@@ -1,9 +1,10 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/restuarant.jpg'
-import IMG2 from '../../assets/tours.jpg'
-import IMG3 from '../../assets/netflix.png'
-import IMG4 from '../../assets/Google maps clone.png'
+import IMG1 from '../../assets/simple-online-calculator.jpg'
+import IMG2 from '../../assets/portfolio image.jpg'
+import IMG3 from '../../assets/restuarant.jpg'
+
+
 
 const Portfolio = () => {
   return (
@@ -42,25 +43,26 @@ const data = [
   {
     id: 1,
     Image: IMG1,
-    title: 'Restuarant',
-    github: 'https://github.com',
-    demo: '#demo'
+    title: 'Calculator',
+    github: 'https://github.com/Maqhawethabethe/web-calculator.git',
+    demo: 'https://chimerical-starship-aaca5b.netlify.app/'
 
   },
   {
     id: 2,
     Image: IMG2,
-    title: 'Bookings',
-    github: 'https://github.com',
-    demo: '#demo'
+    title: 'Portfolio',
+    github: 'https://github.com/Maqhawethabethe/React_portfolio.git',
+    demo: 'https://incandescent-faun-68f42f.netlify.app'
 
   },
   {
     id: 3,
     Image: IMG3,
-    title: 'Netflix',
-    github: 'https://github.com',
+    title: 'Restuarant',
+    github: 'https://github.com/Maqhawethabethe/Resturant-website-project.git',
     demo: '#demo'
 
   }
+
 ]
