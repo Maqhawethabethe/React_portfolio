@@ -45,7 +45,7 @@ const Experience = () => {
           <div className='experience_content'>
             <article className='experience_details'>
             <TbCheckbox/>
-            <div><h4>NODE JS</h4>
+            <div><h4>SQL</h4>
             <small className='text-light'>Intermediate</small></div>
             </article>
             <article className='experience_details'>
